@@ -1,5 +1,6 @@
 # Project specific
 data/
+ref-bib4llm/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
