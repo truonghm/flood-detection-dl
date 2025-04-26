@@ -1,0 +1,6 @@
+[submodule "flood-detection-notes"]
+	path = flood-detection-notes
+	url = git@github.com:truonghm/flood-detection-notes.git
+[submodule "notes"]
+	path = notes
+	url = git@github.com:truonghm/flood-detection-notes.git
